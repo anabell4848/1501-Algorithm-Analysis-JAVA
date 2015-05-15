@@ -1,0 +1,25 @@
+Dictionary:words3.txt and Test file: large.txt
+Dictionary 0 (unsorted array)
+	Total words checked: 211242
+	Number of words found: 189323
+	Number of words not found: 21919
+	Total time required for the searches: 746061594 microseconds
+	Average time required per search: 3531.7862640952085 microseconds
+Dictionary 1 (sorted array)
+	Total words checked: 211242
+	Number of words found: 189323
+	Number of words not found: 21919
+	Total time required for the searches: 646498 microseconds
+	Average time required per search: 3.060461461262438 microseconds
+Dictionary 2 (hash table)
+	Total words checked: 211242
+	Number of words found: 189072
+	Number of words not found: 22170
+	Total time required for the searches: 176316 microseconds
+	Average time required per search: 0.8346635612236203 microseconds
+Dictionary 3 (DLB)
+	Total words checked: 211242
+	Number of words found: 189323
+	Number of words not found: 21919
+	Total time required for the searches: 476741 microseconds
+	Average time required per search: 2.256847596595374 microseconds

@@ -1,0 +1,25 @@
+Dictionary:words1.txt and Test file: medium.txt
+Dictionary 0 (unsorted array)
+	Total words checked: 4532
+	Number of words found: 3037
+	Number of words not found: 1495
+	Total time required for the searches: 2963359 microseconds
+	Average time required per search: 653.8744483671668 microseconds
+Dictionary 1 (sorted array)
+	Total words checked: 4532
+	Number of words found: 3037
+	Number of words not found: 1495
+	Total time required for the searches: 13650 microseconds
+	Average time required per search: 3.0119152691968227 microseconds
+Dictionary 2 (hash table)
+	Total words checked: 4532
+	Number of words found: 3032
+	Number of words not found: 1500
+	Total time required for the searches: 11340 microseconds
+	Average time required per search: 2.502206531332745 microseconds
+Dictionary 3 (DLB)
+	Total words checked: 4532
+	Number of words found: 3037
+	Number of words not found: 1495
+	Total time required for the searches: 25906 microseconds
+	Average time required per search: 5.716240070609003 microseconds
